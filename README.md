@@ -9,7 +9,7 @@
 ![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-48128c?style=for-the-badge&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-48128c?style=for-the-badge&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-48128c?style=for-the-badge&logo=Docker)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-48128c?style=for-the-badge&logo=Jupyter)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-48128c?style=for-the-badge&logo=Jupyter)
 ![GitHub](https://img.shields.io/badge/-GitHub-48128c?style=for-the-badge&logo=GitHub)
 
 ## Follow me

@@ -4,8 +4,6 @@
 
 ## Tools and Languages
 ![Python](https://img.shields.io/badge/-Python-48128c?style=for-the-badge&logo=Python)
-![Pandas](https://img.shields.io/badge/-Pandas-48128c?style=for-the-badge&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-48128c?style=for-the-badge&logo=Numpy)
 ![PostegreSQL](https://img.shields.io/badge/-PostgreSQL-48128c?style=for-the-badge&logo=PostgreSQL)
 ![Redis](https://img.shields.io/badge/-Redis-48128c?style=for-the-badge&logo=Redis)
 ![Docker](https://img.shields.io/badge/-Docker-48128c?style=for-the-badge&logo=Docker)

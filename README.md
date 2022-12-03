@@ -11,7 +11,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-48128c?style=for-the-badge&logo=GitHub)
 
 ## Follow me
-[![VK](https://img.shields.io/badge/-VK-48128c?style=for-the-badge&logo=VK)](https://vk.com/1owfie)
 [![Telegram](https://img.shields.io/badge/-Telegram-48128c?style=for-the-badge&logo=Telegram)](https://t.me/lowf1e)
 [![Discord](https://img.shields.io/badge/-Discord-48128c?style=for-the-badge&logo=Discord)](https://discord.gg/bNGpR3hV)
 

@@ -1,6 +1,6 @@
 [![Header](https://github.com/lowfie/lowfie/blob/main/assets/lowfie.gif)](https://t.me/lowf1e)
 
-## Welcome to my profile. I am a beginner python programmer.
+## Welcome to my profile. I am a python programmer.
 
 ## Tools and Languages
 ![Python](https://img.shields.io/badge/-Python-48128c?style=for-the-badge&logo=Python)

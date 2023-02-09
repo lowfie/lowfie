@@ -8,8 +8,9 @@
  - Git
  - Docker 
  - PostgreSQL, MySQL (ORM)
- - Redis
  - FastApi, Django
+ - Redis
+ - Celery
  - Postman
 
 ## Follow me

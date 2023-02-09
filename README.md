@@ -3,11 +3,14 @@
 ## Welcome to my profile. I am a python programmer.
 
 ## Tools and Languages
-![Python](https://img.shields.io/badge/-Python-48128c?style=for-the-badge&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-48128c?style=for-the-badge&logo=PostgreSQL)
-![NoSQL](https://img.shields.io/badge/-NoSQL-48128c?style=for-the-badge&logo=Redis)
-![Docker](https://img.shields.io/badge/-Docker-48128c?style=for-the-badge&logo=Docker)
-![GitHub](https://img.shields.io/badge/-GitHub-48128c?style=for-the-badge&logo=GitHub)
+ - Python 3.6+
+ - Linux
+ - Git
+ - Docker 
+ - PostgreSQL, MySQL (ORM)
+ - Redis
+ - FastApi, Django
+ - Postman
 
 ## Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-48128c?style=for-the-badge&logo=Telegram)](https://t.me/lowf1e)

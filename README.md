@@ -4,7 +4,7 @@
 
 ## Technologies
 **Python 3.x:** asyncio, fastapi, sqlalchemy, tortoise-orm, celery, aiogram  
-**Databases/cache:** postgres, mongo, mariadb, mysql, redis  
+**Databases/cache:** postgres, mariadb, mysql, sqlite, redis 
 **Queues:** rabbitmq  
 **DevOps:** Docker, Docker compose, linux/bash  
 **TaskTracking:** Notion, Miro, Trello  

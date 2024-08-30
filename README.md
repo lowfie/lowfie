@@ -3,10 +3,10 @@
 ## Welcome to my profile. I am a python programmer.
 
 ## Technologies
-**Python 3.x:** asyncio, fastapi, Django, sqlalchemy, tortoise-orm, celery, aiogram  
-**Databases/cache:** postgres, mariadb, mysql, sqlite, redis  
+**Python 3.x:** asyncio, fastapi, Django (DRF), sqlalchemy, tortoise-orm, celery, aiogram  
+**Databases/cache:** postgres, redis, ClickHouse  
 **Queues:** rabbitmq  
-**DevOps:** Docker, Docker compose, linux/bash  
+**DevOps:** Docker, Docker compose, linux/bash, NGINX  
 **TaskTracking:** Notion, Miro, Trello, Jira/Confluence  
 **Git:** GitHub, GitLab  
 
